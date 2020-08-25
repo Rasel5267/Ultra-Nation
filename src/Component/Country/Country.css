@@ -1,0 +1,10 @@
+.country{
+    border: 1px solid #ddd;
+    padding: 15px;
+    margin:15px auto;
+    width: 900px;
+    color: #353535;
+  }
+  .country img{
+    max-width: 100px;
+  }
